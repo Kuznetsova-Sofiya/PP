@@ -1,2 +1,2 @@
 # PP
-[джава практические занятия](https://github.com/Kuznetsova-Sofiya/PracticeJavaPP)
+[JAVA практические занятия](https://github.com/Kuznetsova-Sofiya/PracticeJavaPP)
