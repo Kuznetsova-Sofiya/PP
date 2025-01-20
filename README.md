@@ -1,4 +1,4 @@
 # PP
 * [JAVA практические занятия](https://github.com/Kuznetsova-Sofiya/PracticeJavaPP)
-* [JAVA коллоквиум]()
+* [JAVA коллоквиум](https://github.com/Kuznetsova-Sofiya/JavaPPKolokvium)
 * [JAVA сквозная задача](https://github.com/Kuznetsova-Sofiya/BSUJavaExam)
